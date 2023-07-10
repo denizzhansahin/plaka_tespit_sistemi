@@ -1,6 +1,8 @@
 # plaka_tespit_sistemi
 Plaka tanıma ve tespit sistemi kodları yer almaktadır.
 
+Kodların tamamı için bu Google Drive linkini kullanınız : https://drive.google.com/drive/folders/1N7zvG8pJfCYrLGNjCw6NDGksHJjOZ0GZ?usp=sharing 
+
 ![plaka_tanima_logo](https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/1e7e14a2-7d00-4b9e-abf4-c06b73e0998e)
 
 
