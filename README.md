@@ -1,7 +1,7 @@
 # plaka_tespit_sistemi
 Plaka tanıma ve tespit sistemi kodları yer almaktadır.
 
-Kodların tamamı için bu Google Drive linkini kullanınız , Bu link içindeki tüm dosyaları indiriniz: https://drive.google.com/drive/folders/1N7zvG8pJfCYrLGNjCw6NDGksHJjOZ0GZ?usp=sharing 
+Bu repoda sadece hazırlanmış kodlar vardır. Kodların tamamı için bu Google Drive linkini kullanınız , Bu link içindeki tüm dosyaları indiriniz: https://drive.google.com/drive/folders/1N7zvG8pJfCYrLGNjCw6NDGksHJjOZ0GZ?usp=sharing 
 
 
 
