@@ -199,7 +199,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--weights', nargs='+', type=str, default='yolov7.pt', help='model.pt path(s)')
     parser.add_argument('--weights2', nargs='+', type=str, default='/home/denshn/Masaüstü/plaka_tanima/plaka_weight/best_062.pt', help='model.pt path(s)')
-    parser.add_argument('--source', type=str, default='/home/denshn/Masaüstü/plaka_tanima_sistem_paket/yolov7/source_gorsel/plaka162.jpg', help='source')  # file/folder, 0 for webcam
+    parser.add_argument('--source', type=str, default='0', help='source')  # file/folder, 0 for webcam
     parser.add_argument('--img-size', type=int, default=640, help='inference size (pixels)')
     parser.add_argument('--conf-thres', type=float, default=0.25, help='object confidence threshold')
     parser.add_argument('--iou-thres', type=float, default=0.45, help='IOU threshold for NMS')
