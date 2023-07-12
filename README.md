@@ -1,3 +1,10 @@
+![Kotlin_Icon svg](https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/eba544e3-8480-4ac1-82ac-d9c301e6c101)
+![touchicon-180](https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/3891251a-a060-40ff-9a29-b682322c14a1)
+![Python-logo-notext svg](https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/c35cdf68-c7f7-4dfb-8b36-0bb5fd4bb23f)
+![Qt_logo_2016 svg](https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/95c1b9f5-abd6-4097-aaf1-eb18e3c0defb)
+![800px-OpenCV_Logo_with_text_svg_version svg](https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/e7743d0f-57b4-489a-9177-a4d64bb8693e)
+![Uploading indir (1).png…]()
+![pytorch-logo](https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/42fd9187-05ed-430f-a23f-7394c12be6a8)
 # plaka_tespit_sistemi
 Plaka tanıma ve tespit sistemi kodları yer almaktadır.
 
@@ -19,4 +26,6 @@ Plaka tanıma sistemi aktif olarak çalışan bir kamera görüntüsü ile senkr
 Plaka tanıma sistemi ile birlikte yaşanabilecek iç ve dış güvenlik tehditleri için güvenlik güçlerine kolaylık sağlanabilecektir. Saatler ve günler süren güvenlik kamerası kayıtları yerine sadece nesne tanıma algoritmaları sayesinde elde edilen görsel ve bilgiler ile kolayca arama ve bulma işlemi yapılabilecektir. Ayrıca veritabanı üzerindeki tüm verilerin transferi ise çok daha kolay taşınabilecektir. Plaka tanıma sistemi ayrıca plakası belli olmayan araçlar için is  ilgili veritabanı işlemleri gerçeklteştirmektedir. Böylece kullanıcı güvenliği ve takibi en üst düzeyde sağlanması planlanmaktadır.
 
 
-**Kullanılan Teknolojiler
+# Kullanılan Teknolojiler
+
+
