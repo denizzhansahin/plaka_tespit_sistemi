@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity7">
+
+    <ScrollView
+        android:id="@+id/scrollView5"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TableLayout
+                android:id="@+id/tableLayout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textAlignment="textStart">
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+
+                    <TextView
+                        android:id="@+id/textViewIslemAy1"
+                        android:layout_width="match_parent"
+                        android:layout_column="1"
+                        android:padding="4dp"
+                        android:text="Ay"
+                        android:textAlignment="center"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/textViewIslemGun1"
+                        android:layout_width="match_parent"
+                        android:layout_column="4"
+                        android:padding="4dp"
+                        android:text="Gün"
+                        android:textAlignment="center"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/textViewIslemSaat1"
+                        android:layout_width="match_parent"
+                        android:layout_column="5"
+                        android:padding="4dp"
+                        android:text="Saat"
+                        android:textAlignment="center"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/textViewIslemDakika1"
+                        android:layout_width="match_parent"
+                        android:layout_column="2"
+                        android:padding="4dp"
+                        android:text="Dakika"
+                        android:textAlignment="center"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/textViewIslemGorevi1"
+                        android:layout_width="match_parent"
+                        android:layout_column="3"
+                        android:padding="4dp"
+                        android:text="Görev"
+                        android:textAlignment="center"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/textViewPlaka1"
+                        android:layout_width="97dp"
+                        android:layout_height="match_parent"
+                        android:layout_column="7"
+                        android:padding="4dp"
+                        android:text="Plaka"
+                        android:textAlignment="center"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/textViewPlakaTespit1"
+                        android:layout_width="97dp"
+                        android:layout_height="match_parent"
+                        android:layout_column="7"
+                        android:padding="4dp"
+                        android:text="Plaka Tespit"
+                        android:textAlignment="center"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/textViewDosyaAdi1"
+                        android:layout_width="match_parent"
+                        android:layout_column="0"
+                        android:padding="4dp"
+                        android:text="Dosya\nAdı"
+                        android:textAlignment="center"
+                        android:textStyle="bold" />
+                </TableRow>
+            </TableLayout>
+
+            <TableLayout
+                android:id="@+id/tableLayout1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+
+                    <TextView
+                        android:id="@+id/textViewIslemAy"
+                        android:layout_width="match_parent"
+                        android:layout_column="1"
+                        android:padding="4dp"
+                        android:text="   "
+                        android:textAlignment="center"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/textViewIslemGun"
+                        android:layout_width="match_parent"
+                        android:layout_column="4"
+                        android:padding="4dp"
+                        android:text="   "
+                        android:textAlignment="center"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/textViewIslemSaat"
+                        android:layout_width="match_parent"
+                        android:layout_column="5"
+                        android:padding="4dp"
+                        android:text="   "
+                        android:textAlignment="center"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/textViewIslemDakika"
+                        android:layout_width="match_parent"
+                        android:layout_column="2"
+                        android:padding="4dp"
+                        android:text="   "
+                        android:textAlignment="center"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/textViewIslemGorevi"
+                        android:layout_width="match_parent"
+                        android:layout_column="3"
+                        android:padding="4dp"
+                        android:text="   "
+                        android:textAlignment="center"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/textViewPlaka"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_column="7"
+                        android:padding="4dp"
+                        android:text="   "
+                        android:textAlignment="center"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/textViewPlakaTespit"
+                        android:layout_width="97dp"
+                        android:layout_height="match_parent"
+                        android:layout_column="7"
+                        android:padding="4dp"
+                        android:text="   "
+                        android:textAlignment="center"
+                        android:textStyle="bold" />
+
+
+                    <TextView
+                        android:id="@+id/textViewDosyaAdi"
+                        android:layout_width="match_parent"
+                        android:layout_column="0"
+                        android:padding="4dp"
+                        android:text="   "
+                        android:textAlignment="center"
+                        android:textStyle="bold" />
+                </TableRow>
+            </TableLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
