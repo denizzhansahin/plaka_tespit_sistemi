@@ -22,6 +22,7 @@ Plaka tanıma sistemi ile birlikte yaşanabilecek iç ve dış güvenlik tehditl
 # Kullanılan Teknolojiler
 
 
+![touchicon-180](https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/f13cef80-aa09-4bf7-8bd3-dcb3965bc31a)
 ![Qt_logo_2016 svg](https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/1f5deccd-63c6-4663-af47-7e0a1e4863a8)
 ![indir (1)](https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/d0531f77-0df1-4a54-9a5e-57527de7ca5f)
 ![pytorch-logo](https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/a6af04a2-6a46-473c-8e34-bd03c8db0a99)
@@ -29,7 +30,6 @@ Plaka tanıma sistemi ile birlikte yaşanabilecek iç ve dış güvenlik tehditl
 ![indir (2)](https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/1f36f1c2-39d9-41f4-a8c0-4433e780d329)
 ![logo](https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/fde3dc4a-3114-4dc1-bf10-38d94d274aa9)
 ![Kotlin_Icon svg](https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/1d93781a-7ba4-4f12-840e-af96e74d1272)
-![touchicon-180](https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/f13cef80-aa09-4bf7-8bd3-dcb3965bc31a)
 ![800px-OpenCV_Logo_with_text_svg_version svg](https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/1e9ed696-a8d3-4973-8b13-c9d9f578e685)
 ![Python-logo-notext svg](https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/a2d6b4bb-397b-42f9-87ba-de2cbf456d87)
 
