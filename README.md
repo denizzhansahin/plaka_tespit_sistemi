@@ -5,9 +5,9 @@ Bu repoda sadece hazırlanmış kodlar vardır. Kodların tamamı için bu Googl
 
 Sunum Dosyası için Tıklayınız : https://github.com/denizzhansahin/plaka_tespit_sistemi/blob/main/SunumBGM.pdf
 
-
+<div align="center">
 ![plaka_tanima_logo](https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/1e7e14a2-7d00-4b9e-abf4-c06b73e0998e)
-
+</div>
 
 
 Plaka tanıma ve güvenlik sistemi; kamu kurumları, özel sektör kuruluşları, toplu konutlar veya diğer konut türleri için geliştirilmiş bir sistemdir. Proje ile birlikte kullanıcıların karşılaşabileceği güvenlik sorunları için yazılım geliştirilmiştir. Bu yazılım kapsamında çeşitli türlere ait araçların tespit edilmesi ve sahip oldukları plakaların metinsel ifadelerinin tespit edilmesi amaçlanmaktadır. Tespit edilecek plaka bilgisi ile birlikte kullanıcı bilgilerinin yerel bir veritabanı üzerinde depolanması ve bu bilgilerin ilgili kullanıcılar için bulut veritabanı ile eşitlenmesi ve mobil uygulama üzerinden takibinin yapılması amaçlanmaktadır. Plaka tanıma sistemi, içerisinde yer alan derin öğrenme ve bilgisayarlı görü teknolojisi ile birlikte araç ve plaka tespiti yapılmaktadır. Aynı yöntemler ile birlikte plaka üzerinde belirtilen metinsel ifadeler elde edilmektedir. Tespit edilen plaka bilgisi ile veritabanında kayıtlı kullanıcı olması veya olmaması durumları ile birlikte ilgili veritabanı içindeki tablolara veri girişi yapılmaktadır. Ayrıca bu veri girişlerinin bulut veritabanı ile eşitlenmesi sağlanacak olup her bir kullanıcı ve sistem yöneticisi tarafından gerekli bilgiler mobil uygulama üzerinden takip edilebilecektir.
