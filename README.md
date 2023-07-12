@@ -43,5 +43,3 @@ Plaka tanıma sistemi ile birlikte yaşanabilecek iç ve dış güvenlik tehditl
 </div>
 
 
-![plaka_tanima_logo](https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/1e7e14a2-7d00-4b9e-abf4-c06b73e0998e)
-
