@@ -1,10 +1,3 @@
-![Kotlin_Icon svg](https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/eba544e3-8480-4ac1-82ac-d9c301e6c101)
-![touchicon-180](https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/3891251a-a060-40ff-9a29-b682322c14a1)
-![Python-logo-notext svg](https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/c35cdf68-c7f7-4dfb-8b36-0bb5fd4bb23f)
-![Qt_logo_2016 svg](https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/95c1b9f5-abd6-4097-aaf1-eb18e3c0defb)
-![800px-OpenCV_Logo_with_text_svg_version svg](https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/e7743d0f-57b4-489a-9177-a4d64bb8693e)
-![Uploading indir (1).png…]()
-![pytorch-logo](https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/42fd9187-05ed-430f-a23f-7394c12be6a8)
 # plaka_tespit_sistemi
 Plaka tanıma ve tespit sistemi kodları yer almaktadır.
 
@@ -29,3 +22,12 @@ Plaka tanıma sistemi ile birlikte yaşanabilecek iç ve dış güvenlik tehditl
 # Kullanılan Teknolojiler
 
 
+![Qt_logo_2016 svg](https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/1f5deccd-63c6-4663-af47-7e0a1e4863a8)
+![Uploading 800px-OpenCV_Logo_with_text_svg_version.svg.png…]()
+![indir (1)](https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/d0531f77-0df1-4a54-9a5e-57527de7ca5f)
+![pytorch-logo](https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/a6af04a2-6a46-473c-8e34-bd03c8db0a99)
+![Nvidia_CUDA_Logo](https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/d2ad9d39-c558-47dc-b0da-aee3d1144eb6)
+![indir (2)](https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/1f36f1c2-39d9-41f4-a8c0-4433e780d329)
+![logo](https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/fde3dc4a-3114-4dc1-bf10-38d94d274aa9)
+![Kotlin_Icon svg](https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/1d93781a-7ba4-4f12-840e-af96e74d1272)
+![touchicon-180](https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/f13cef80-aa09-4bf7-8bd3-dcb3965bc31a)
