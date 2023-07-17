@@ -40,7 +40,7 @@ Plaka tanıma sistemi ile birlikte yaşanabilecek iç ve dış güvenlik tehditl
 
 <div align="center">
     <img src="https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/a2d6b4bb-397b-42f9-87ba-de2cbf456d87" width="33%">
-    <img src="https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/2906a9f5-0d55-490a-94b2-61fd86169b03" width="33%">
+    <img src="https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/4ece7912-0857-478a-b4cd-5ddfef56300b" width="33%">
     <img src="https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/3d9b2e05-d35f-4054-9a9f-306e787c2cd5" width="33%">
 
 </div>
