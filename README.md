@@ -3,7 +3,7 @@ Plaka tanıma ve tespit sistemi kodları yer almaktadır.
 
 Bu repoda sadece hazırlanmış kodlar vardır. Kodların tamamı için bu Google Drive linkini kullanınız , Bu link içindeki tüm dosyaları indiriniz: https://drive.google.com/drive/folders/1N7zvG8pJfCYrLGNjCw6NDGksHJjOZ0GZ?usp=sharing 
 
-Sunum Dosyası için Tıklayınız : https://github.com/denizzhansahin/plaka_tespit_sistemi/blob/main/SunumBGM.pdf
+Sunum Dosyası için Tıklayınız : https://github.com/denizzhansahin/plaka_tespit_sistemi/blob/main/PlakaTan%C4%B1maSunumBGM-s%C4%B1k%C4%B1%C5%9Ft%C4%B1r%C4%B1ld%C4%B1.pdf
 
 <div align="center">
     <img src="https://github.com/denizzhansahin/plaka_tespit_sistemi/assets/95483485/1e7e14a2-7d00-4b9e-abf4-c06b73e0998e" width="33%">
